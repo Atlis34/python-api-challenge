@@ -1,0 +1,2 @@
+# adding config.py file - so api keys won't get pushed to public git repisitory
+api_keys.py
